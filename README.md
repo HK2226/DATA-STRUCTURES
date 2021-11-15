@@ -14,5 +14,7 @@
   * time complexity n^2 - reusable sum method 
   * time complexity n^3 - bruteforce 
 * Fibonacci
+## Greedy
+* Fractional Knapsack
  
  
