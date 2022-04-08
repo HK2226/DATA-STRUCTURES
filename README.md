@@ -7,7 +7,7 @@
 * Sum
 * Sum-Digit
 ## Stack
-* Stack using class
+* Stack using class(c++ / python)
 ## Divide and Conquer
 * Maximum sub array - class and structure
   * time complexity nlogn - divide and conquer
